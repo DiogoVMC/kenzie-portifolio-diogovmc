@@ -70,7 +70,7 @@ export const GlobalStyle: React.FC<GlobalStyleProps> = ({ children }) => {
       grey1: "#212529",
       grey2: "#495057",
       grey3: "#CED3D7",
-      grey4: "#F1F3F5",
+      grey4: "#EFEEEE",
       grey5: "#F8F9FA",
       grey6: "#DEE0FB",
       whiteFixed: "#ffffff",
